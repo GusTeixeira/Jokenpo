@@ -1,0 +1,50 @@
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\obj\Debug\JokenPo.csprojAssemblyReference.cache
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\obj\Debug\JokenPo.frmJokenpo.resources
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\obj\Debug\JokenPo.Properties.Resources.resources
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.GenerateResource.cache
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\bin\Debug\JokenPo.exe.config
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\bin\Debug\JokenPo.exe
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\bin\Debug\JokenPo.pdb
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\obj\Debug\JokenPo.exe
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\obj\Debug\JokenPo.pdb
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\bin\Debug\JokenPo.exe.config
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\bin\Debug\JokenPo.exe
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\bin\Debug\JokenPo.pdb
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\obj\Debug\JokenPo.csprojAssemblyReference.cache
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\obj\Debug\JokenPo.frmJokenpo.resources
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\obj\Debug\JokenPo.Properties.Resources.resources
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.GenerateResource.cache
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.CoreCompileInputs.cache
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\obj\Debug\JokenPo.exe
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\obj\Debug\JokenPo.pdb
+F:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.csprojAssemblyReference.cache
+F:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.frmJokenpo.resources
+F:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.GenerateResource.cache
+F:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.exe
+F:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.pdb
+F:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\bin\Debug\JokenPo.exe.config
+F:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\bin\Debug\JokenPo.exe
+F:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\bin\Debug\JokenPo.pdb
+F:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.Properties.Resources.resources
+F:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.CoreCompileInputs.cache
+E:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\bin\Debug\JokenPo.exe.config
+E:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\bin\Debug\JokenPo.exe
+E:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\bin\Debug\JokenPo.pdb
+E:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.csprojAssemblyReference.cache
+E:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.frmJokenPo.resources
+E:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.Properties.Resources.resources
+E:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.GenerateResource.cache
+E:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.CoreCompileInputs.cache
+E:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.exe
+E:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.pdb
+K:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\bin\Debug\JokenPo.exe.config
+K:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\bin\Debug\JokenPo.exe
+K:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\bin\Debug\JokenPo.pdb
+K:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.csprojAssemblyReference.cache
+K:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.frmJokenPo.resources
+K:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.Properties.Resources.resources
+K:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.GenerateResource.cache
+K:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.CoreCompileInputs.cache
+K:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.exe
+K:\Ensino Técnico - Informática\2º MÓDULO\DESENVOLVIMENTO DE SOFTWARE I\JokenPo\JokenPo\obj\Debug\JokenPo.pdb

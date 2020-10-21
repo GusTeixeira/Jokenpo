@@ -1,0 +1,20 @@
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\obj\Debug\JokenPo.csprojAssemblyReference.cache
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\obj\Debug\JokenPo.frmJokenpo.resources
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\obj\Debug\JokenPo.Properties.Resources.resources
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.GenerateResource.cache
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\bin\Debug\JokenPo.exe.config
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\bin\Debug\JokenPo.exe
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\bin\Debug\JokenPo.pdb
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\obj\Debug\JokenPo.exe
+C:\Users\Andrea\source\repos\JokenPo\JokenPo\obj\Debug\JokenPo.pdb
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\bin\Debug\JokenPo.exe.config
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\bin\Debug\JokenPo.exe
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\bin\Debug\JokenPo.pdb
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\obj\Debug\JokenPo.csprojAssemblyReference.cache
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\obj\Debug\JokenPo.frmJokenpo.resources
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\obj\Debug\JokenPo.Properties.Resources.resources
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.GenerateResource.cache
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.CoreCompileInputs.cache
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\obj\Debug\JokenPo.exe
+I:\2°Modulo\Desenvolvimento de Software 1\JokenPo\JokenPo\obj\Debug\JokenPo.pdb
